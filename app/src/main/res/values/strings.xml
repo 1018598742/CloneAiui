@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CloneAiui</string>
+
+
+    <string name="wakeup_tip">快唤醒我吧</string>
+    <string name="touch_speak">按住说话</string>
+    <string name="up_cancel">松开结束</string>
+</resources>
